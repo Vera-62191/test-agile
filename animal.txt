@@ -1,2 +1,5 @@
 Chicken
 Dog
+Cat
+Dragon
+Rat
