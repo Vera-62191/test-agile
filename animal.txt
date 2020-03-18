@@ -3,3 +3,7 @@ Dog
 Cat
 Dragon
 Rat
+cow
+tiger
+snake
+horse
